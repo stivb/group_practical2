@@ -1,0 +1,10 @@
+PART 1
+
+Create new repo on GitHub
+Clone it
+Navigate into it
+Create a file
+Edit and Save it
+do git add .
+do git commit -m "My first commit"
+do git push
