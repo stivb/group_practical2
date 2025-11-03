@@ -8,3 +8,9 @@ Edit and Save it
 do git add .
 do git commit -m "My first commit"
 do git push
+
+PART 2
+Invite collaborators
+Each collaborator accept invite
+Each collaborator clone repository
+Each collaborator create a new file (and save, add, commit, and push)
