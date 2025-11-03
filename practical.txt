@@ -14,3 +14,8 @@ Invite collaborators
 Each collaborator accept invite
 Each collaborator clone repository
 Each collaborator create a new file (and save, add, commit, and push)
+After each person has done the changes, then do a pull to see what your teammates have done
+
+PART 3
+
+
